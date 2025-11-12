@@ -1,5 +1,4 @@
 <?php
-// db.php - configuration simple PDO pour MySQL
 $DB_HOST = '127.0.0.1';
 $DB_NAME = 'autocompletion';
 $DB_USER = 'root';
